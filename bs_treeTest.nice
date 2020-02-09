@@ -1,0 +1,32 @@
+Script started on 2019-11-10 01:43:47-05:00
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn4[bzargar@compute asn4]$ pwd
+/home/bzargar/Tmp/CS2211a/Asn/asn4
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn4[bzargar@compute asn4]$ date
+Sun Nov 10 01:43:56 EST 2019
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn4[bzargar@compute asn4]$ who am i
+bzargar  pts/3        2019-11-10 01:43
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn4[bzargar@compute asn4]$ ./bs_tree
+(Key name: !, Key ID: 99)
+Node Data: 9
+(Key name: Once, Key ID: 1)
+Node Data: 11
+(Key name: Once, Key ID: 5)
+Node Data: 50
+(Key name: Time, Key ID: 4)
+Node Data: 44
+(Key name: Upon, Key ID: 22)
+Node Data: 2
+(Key name: Vancouver, Key ID: 8)
+Node Data: 88
+(Key name: a, Key ID: 3)
+Node Data: 33
+(Key name: filmed, Key ID: 6)
+Node Data: 66
+(Key name: in, Key ID: 7)
+Node Data: 77
+(Key name: is, Key ID: 5)
+Node Data: 55
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn4[bzargar@compute asn4]$ exit
+exit
+
+Script done on 2019-11-10 01:44:24-05:00
